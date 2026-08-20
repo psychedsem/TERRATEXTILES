@@ -1,6 +1,6 @@
 # TerraTextiles — Data-Driven Sustainability in the Textile Industry
 
-![TerraTextiles — Data-Driven Sustainability](TERRATEXTILES-cover.png)
+![TerraTextiles — Data-Driven Sustainability](TERRATEXTILES(cover).png)
 
 ## Overview
 
