@@ -1,4 +1,4 @@
-# TerraTextiles — Data-Driven Sustainability in the Textile Industry
+# TerraTextiles
 
 ![TerraTextiles — Data-Driven Sustainability](TERRATEXTILES%20\(cover\).png)
 
