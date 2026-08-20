@@ -55,12 +55,12 @@ The analysis also considers real-world examples from the fashion industry, inclu
 
 The complete project is available as a presentation in both English and Italian:
 
-> 🇬🇧 [View presentation — English](presentation/TERRATEXTILES%20(ENG).pdf)
-> 🇮🇹 [View presentation — Italian](presentation/TERRATEXTILES%20(ITA).pdf)
+> 🇬🇧 [View presentation in English](presentation/TERRATEXTILES%20(ENG).pdf)
+> 🇮🇹 [View presentation in Italian](presentation/TERRATEXTILES%20(ITA).pdf)
 
 ---
 
-## 🇮🇹 Versione Italiana
+## Versione Italiana
 
 ### Panoramica
 
@@ -115,5 +115,5 @@ L'analisi prende inoltre in considerazione esempi reali nel settore della moda, 
 
 La presentazione completa è disponibile in entrambe le lingue:
 
-> 🇬🇧 [Visualizza la presentazione — Inglese](presentation/TERRATEXTILES%20(ITA).pdf)
-> 🇮🇹 [Visualizza la presentazione — Italiano](presentation/TERRATEXTILES%20(ITA).pdf)
+> 🇬🇧 [Visualizza la presentazione in Inglese](presentation/TERRATEXTILES%20(ITA).pdf)
+> 🇮🇹 [Visualizza la presentazione in Italiano](presentation/TERRATEXTILES%20(ITA).pdf)
