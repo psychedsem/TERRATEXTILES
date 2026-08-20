@@ -1,6 +1,6 @@
 # TerraTextiles — Data-Driven Sustainability in the Textile Industry
 
-![TerraTextiles — Data-Driven Sustainability](TERRATEXTILES(cover).png)
+![TerraTextiles — Data-Driven Sustainability](TERRATEXTILES%20\(cover\).png)
 
 ## Overview
 
@@ -55,8 +55,8 @@ The analysis also considers real-world examples from the fashion industry, inclu
 
 The complete project is available as a presentation in both English and Italian:
 
-- 📄 [View presentation — English](presentation/TERRATEXTILES-ENG.pdf)
-- 📄 [View presentation — Italian](presentation/TERRATEXTILES-ITA.pdf)
+> 🇬🇧 [View presentation — English](presentation/TERRATEXTILES%20(ENG).pdf)
+> 🇮🇹 [View presentation — Italian](presentation/TERRATEXTILES%20(ITA).pdf)
 
 ---
 
@@ -115,5 +115,5 @@ L'analisi prende inoltre in considerazione esempi reali nel settore della moda, 
 
 La presentazione completa è disponibile in entrambe le lingue:
 
-- 📄 [Visualizza la presentazione — Inglese](presentation/TERRATEXTILES-ENG.pdf)
-- 📄 [Visualizza la presentazione — Italiano](presentation/TERRATEXTILES-ITA.pdf)
+> 🇬🇧 [Visualizza la presentazione — Inglese](presentation/TERRATEXTILES%20(ITA).pdf)
+> 🇮🇹 [Visualizza la presentazione — Italiano](presentation/TERRATEXTILES%20(ITA).pdf)
