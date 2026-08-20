@@ -1,4 +1,4 @@
-# TerraTextiles
+# TERRATEXTILES
 
 ![TerraTextiles — Data-Driven Sustainability](TERRATEXTILES%20\(cover\).png)
 
