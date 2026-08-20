@@ -2,7 +2,9 @@
 
 ![TerraTextiles — Data-Driven Sustainability](TERRATEXTILES%20\(cover\).png)
 
-## Overview
+## 🇬🇧 English
+
+### Overview
 
 TerraTextiles is a data analysis and strategy project exploring how data-driven decision-making can support sustainability and operational efficiency in the textile industry.
 
@@ -10,7 +12,7 @@ Built around the hypothetical case of **TerraTextiles**, a sustainability-orient
 
 The project connects data analysis with **UN Sustainable Development Goal 12 — Responsible Consumption and Production**, exploring how better use of data could help reduce waste, optimize logistics, improve transparency, and support more sustainable production decisions.
 
-## Project Focus
+### Project Focus
 
 The analysis explores three main data areas:
 
@@ -20,7 +22,7 @@ The analysis explores three main data areas:
 
 These areas are examined through core data concepts including the **5Vs of Big Data — Volume, Variety, Velocity, Veracity, and Value** — and their role in building reliable and useful analytical processes.
 
-## Data Journey
+### Data Journey
 
 The project also maps the lifecycle of data from its creation to its use in decision-making:
 
@@ -28,7 +30,7 @@ The project also maps the lifecycle of data from its creation to its use in deci
 
 This process highlights how raw operational data can be transformed into structured information and eventually into reports, dashboards, and business insights.
 
-## Business Applications
+### Business Applications
 
 A data-driven strategy could support TerraTextiles in several areas:
 
@@ -39,7 +41,7 @@ A data-driven strategy could support TerraTextiles in several areas:
 - understanding customer preferences and demand;
 - supporting predictive analysis and demand forecasting.
 
-## AI & Future Scenarios
+### AI & Future Scenarios
 
 The project also explores how **Artificial Intelligence and Machine Learning** could extend the analytical framework.
 
@@ -47,11 +49,11 @@ Potential applications include using predictive and prescriptive analytics to op
 
 AI is therefore treated as an extension of the data strategy rather than the core analytical method of the project.
 
-## Industry Context
+### Industry Context
 
 The analysis also considers real-world examples from the fashion industry, including **Levi's** and **H&M**, to explore how data analytics and predictive approaches can contribute to lower resource consumption, improved production planning, and reduced overproduction.
 
-## Project Deliverables
+### Project Deliverables
 
 The complete project is available as a presentation in both English and Italian:
 
@@ -61,7 +63,7 @@ The complete project is available as a presentation in both English and Italian:
 
 ---
 
-## Versione Italiana
+## 🇮🇹 Italiano
 
 ### Panoramica
 
